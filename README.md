@@ -3,7 +3,15 @@
 
 ![hello gif](https://c.tenor.com/ZhKMg4_yCTgAAAAC/surprised-pikachu.gif)
 
-https://c.tenor.com/ZhKMg4_yCTgAAAAC/surprised-pikachu.gif
+![hello gif](https://c.tenor.com/MF3ZSOlAfeEAAAAC/pikachu-silly.gif)
+
+![hello gif](https://66.media.tumblr.com/tumblr_mc23hpFLFk1rfjowdo1_500.gif)
+
+![hello gif](https://64.media.tumblr.com/80f0904aad5acb45631fdcdab873084d/tumblr_psojndreQP1qksk74o1_400.gif)
+
+![hello gif]()
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true)
 
