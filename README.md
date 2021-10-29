@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&bg_color=DEG,#00ffff,#ff66cc)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&bg_color=DEG,#00ffff,#ff66ccborder_radius=20px)
 
 
 - 🔭 I’m currently working on ...
