@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&bg_color=#00ffff,#ff66cc)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border)
 
 
 - 🌱 I’m currently learning C++
