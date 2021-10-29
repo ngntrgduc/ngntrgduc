@@ -7,8 +7,6 @@
 
 ![hello gif](https://c.tenor.com/hBtFDVt9GqMAAAAC/pikachu-pokemon.gif)
 
-![hello gif](https://64.media.tumblr.com/80f0904aad5acb45631fdcdab873084d/tumblr_psojndreQP1qksk74o1_400.gif)
-
 ![hello gif](https://64.media.tumblr.com/dc825749e59da5fe52411b4d287ef69d/tumblr_mq6y9kNkbZ1rr8b5oo1_400.gif)
 
 
