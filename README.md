@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&icon_color:"#50fa7b")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical:{icon_color:"#50fa7b"})
 
   radical: {
     title_color: "fe428e",
