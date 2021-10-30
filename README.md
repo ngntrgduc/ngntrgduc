@@ -3,5 +3,5 @@
 <img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" align="center">
 </p>
 <p>
-<img class="center" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" style="width: 50%;>
+<img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" style="width: 50%;>
 </p>
