@@ -3,7 +3,12 @@
 
 ## Hey there :>
 
-My name is Duc and i'm studying at VNUHCM - University of Science
+My name is Duc and I'm studying at VNUHCM - University of Science
+
+
+<p>
+<img src="https://monophy.com/media/Zb5oyPaa1x4Zoo3yEi/monophy.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+</p>
 
 ![hello gif](https://monophy.com/media/Zb5oyPaa1x4Zoo3yEi/monophy.gif)
 
