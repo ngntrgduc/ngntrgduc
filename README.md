@@ -10,7 +10,7 @@
 
   My name is Duc and I'm studying at VNUHCM - University of Science
   
-  <img src="https://64.media.tumblr.com/dc825749e59da5fe52411b4d287ef69d/tumblr_mq6y9kNkbZ1rr8b5oo1_400.gif" align="right" style="float:right; height: 100px; width: 200px">
+  <img src="https://64.media.tumblr.com/dc825749e59da5fe52411b4d287ef69d/tumblr_mq6y9kNkbZ1rr8b5oo1_400.gif" align="right" style="float:right; height: 360px; width: 240px">
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true)
