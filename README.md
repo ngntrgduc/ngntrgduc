@@ -1,7 +1,7 @@
 ![snake gif](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
 
 
-# Hey there :>   <img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" style="height: 64px; width: 64px" >
+# Hey there :>   <img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" style="height: 64px; width: 64px, position: relative;" >
 
 
 
