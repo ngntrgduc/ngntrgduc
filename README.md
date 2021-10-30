@@ -3,7 +3,7 @@
 
 ## Hey there :>
 
-<img src="https://c.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" >
+<img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" >
 
 
 <p>
