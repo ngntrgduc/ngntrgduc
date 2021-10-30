@@ -1,7 +1,7 @@
 ![snake gif](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
 
 
-##Hey there :>
+## Hey there :>
 
 My name is Duc and i'm studying at VNUHCM - University of Science
 
