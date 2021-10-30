@@ -2,3 +2,7 @@
 <p>
 <img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" align="center" style="height: 100px; width: 100px" >
 </p>
+
+<p>
+<img class="center" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif" style="height: 100px; width: 100px" >
+</p>
