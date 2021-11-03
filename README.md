@@ -2,5 +2,5 @@
 
 <div width="100%" align="center">
   
-[![](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true)]
+![My stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true)
 </div>
