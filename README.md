@@ -6,3 +6,5 @@
 </div>
 
 <!-- ![](https://komarev.com/ghpvc/?username=ducnguyen1511) -->
+
+![Metrics](https://metrics.lecoq.io/ducnguyen1511?template=classic&base.community=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FHovd)
