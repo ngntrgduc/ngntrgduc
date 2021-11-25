@@ -2,7 +2,7 @@
 
 <div width="100%" align="center">
   
-![My stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true)
-</div>
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true)
+</div> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=ducnguyen1511) -->
