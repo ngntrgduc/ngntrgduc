@@ -5,28 +5,22 @@ on:
   schedule:
     - cron: "0 */24 * * *"
 
-# This command allows us to run the Action automatically from the Actions tab.
+# This command allows to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
-
-    # Generates the snake  
+  
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: sanshironagato
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
