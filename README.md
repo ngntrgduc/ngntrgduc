@@ -1,21 +1,19 @@
 <div width="100%" align="center">
 
 ![snakeeeeeee gif](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
-  
+
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=ducnguyen1511) --> <!-- profile view -->
 
 <div width="100%" align="left">
-<!-- <h1>Hi 👋, I'm Duc Nguyen <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" align="center"/></h1> -->
-  
-  <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
+<h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
   
 - 🌱 I’m currently learning **AI, ML** and **Mathematics**
 
 - 📫 How to reach me **trungducnguyen1511@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2>Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/nguyentrungduc1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyentrungduc1511" height="30" width="40" /></a>
   <a href="https://fb.com/nguyenduc1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenduc1511" height="30" width="40" /></a>
