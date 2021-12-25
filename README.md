@@ -7,7 +7,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=ducnguyen1511) --> <!-- profile view -->
 
 <div width="100%" align="left">
-<h1>Hi 👋, I'm Duc Nguyen</h1>
+<h1>Hi 👋, I'm Duc Nguyen <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" align="center"/></h1>
   
 - 🌱 I’m currently learning **AI, ML** and **Mathematics**
 
