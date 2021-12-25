@@ -14,20 +14,11 @@
 - 📫 How to reach me **trungducnguyen1511@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left"> -->
-<a target="_blank" href="https://linkedin.com/in/nguyentrungduc1511/" >
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a target="_blank" href="https://fb.com/nguyenduc1511/">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<!-- </p> -->
+<p align="left">
+  <a href="https://linkedin.com/in/nguyentrungduc1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyentrungduc1511" height="30" width="40" /></a>
+  <a href="https://fb.com/nguyenduc1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenduc1511" height="30" width="40" /></a>
+</p>
 
-<!--   
-  alt="https://www.linkedin.com/in/nguyentrungduc1511/"
-  alt="https://www.facebook.com/nguyenduc1511/"
--->
-  
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
