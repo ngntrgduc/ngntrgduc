@@ -11,7 +11,7 @@
 <h3>About me</h3>
   
 <!-- - 🏫 I'm a freshman at VNUHCM - University of Science. -->
-- 🌱 I’m currently learning **AI, ML** and **Mathematics**
+- 🌱 I’m currently learning **Algorithm, Machine Learning** and **Mathematics**
 - 📫 How to reach me **trungducnguyen1511@gmail.com**
 
   
