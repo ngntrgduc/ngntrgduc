@@ -2,6 +2,9 @@
 
 ![snakeeeeeee gif](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
 
+<!-- [![](https://github-readme-stats.vercel.app/api?username=ngntrgduc&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ngntrgduc)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ngntrgduc&theme=material-palenight)](https://github.com/ngntrgduc) -->
+  
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=ducnguyen1511&show_icons=true&theme=radical&hide_border=true) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=ducnguyen1511) --> <!-- profile view -->
