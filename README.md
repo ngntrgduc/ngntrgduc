@@ -1,8 +1,6 @@
 <div width="100%" align="center">
 
 ![snakeeeeeee gif](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
-
-<!-- [![](https://github-readme-stats.vercel.app/api?username=ngntrgduc&show_icons=true&theme=aura&hide_border=true&locale=en)](https://github.com/ngntrgduc) -->
   
 <div width="100%" align="left">
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
