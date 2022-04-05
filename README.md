@@ -6,7 +6,7 @@
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
 <h3>About me</h3>
   
-<!-- - 🏫 I'm a freshman at VNUHCM - University of Science. -->
+<!-- - 🏫 I'm a freshman majoring in Mathematics and Computer Science at VNUHCM - University of Science -->
 - 🌱 I’m currently learning **Algorithm, Machine Learning** and **Mathematics**
 - 📫 How to reach me **trungducnguyen1511@gmail.com**
 
