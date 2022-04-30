@@ -18,7 +18,7 @@
   
 - 🏫 I'm a freshman at VNUHCM - University of Science, majoring in Mathematics and Computer Science
 - 🌱 I’m currently learning **Algorithm, Machine Learning** and **Mathematics**
-- 📫 How to reach me **trungducnguyen1511@gmail.com**
+<!-- - 📫 How to reach me **trungducnguyen1511@gmail.com** -->
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">  
