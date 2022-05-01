@@ -6,8 +6,8 @@
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
 
 <!--   [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com) -->
-  [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
