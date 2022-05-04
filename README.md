@@ -44,11 +44,11 @@
   
 ### Connect with me
   <p>
-    <a href="https://fb.com/nguyenduc1511" target="blank">
+    <a href="https://fb.com/nguyenduc1511" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>          
-    <a href="https://linkedin.com/in/nguyentrungduc1511" target="blank">
+    <a href="https://linkedin.com/in/nguyentrungduc1511" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>          
-    <a href="mailto:trungducnguyen1511@gmail.com" target="blank">
+    <a href="mailto:trungducnguyen1511@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 <!--   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/nguyenduc1511)  
