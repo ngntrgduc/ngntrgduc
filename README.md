@@ -10,10 +10,10 @@
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
   <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
   <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/>
-<!--   <img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/> -->
-<!--   <img src="https://forthebadge.com/images/badges/uses-brains.svg"/> -->
+  <img src="https://forthebadge.com/images/badges/uses-brains.svg"/>
+  <img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/>
 <!--   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/> -->
-  <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg"/>
+<!--   <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg"/> -->
   
 ### About me
   
