@@ -22,8 +22,8 @@
   
 ### About me
   
-- 🏫 I'm a freshman at VNUHCM - University of Science, majoring in Mathematics and Computer Science
-- 🌱 I’m currently learning **Data Science**, **Machine Learning**, **Mathematics** and **Algorithms**
+- I'm a freshman at VNUHCM - University of Science, majoring in Mathematics and Computer Science
+- I’m currently learning **Data Science**, **Machine Learning**, **Mathematics** and **Algorithms**
 
 ### Languages
   
