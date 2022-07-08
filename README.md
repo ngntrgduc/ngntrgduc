@@ -1,6 +1,6 @@
 <div width="100%" align="center">
  
-![snakeeeeeee gif](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
   
 <div width="100%" align="left">
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
@@ -22,7 +22,7 @@
   
 ### About me
   
-- I'm a freshman at VNUHCM - University of Science, majoring in Mathematics and Computer Science
+- I'm a freshman at University of Science - VNUHCM, majoring in Mathematics and Computer Science
 - I’m currently learning **Data Science**, **Machine Learning**, **Mathematics** and **Algorithms**
 
 ### Languages
@@ -38,9 +38,6 @@
   
 ### Tools
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/> 
-  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <!-- ### Libraries
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,7 +58,6 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
-  
 <p align="center">
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/languages.svg">
