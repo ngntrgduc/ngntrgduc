@@ -13,16 +13,14 @@
   <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
   <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/>
   <img src="https://forthebadge.com/images/badges/it-works-why.svg"/>
-<!--   <img src="https://forthebadge.com/images/badges/uses-brains.svg"/> -->
-<!--   <img src="https://forthebadge.com/images/badges/fixed-bugs.svg"/> -->
-<!--   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/> -->
+  
 <!--   <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg"/> -->
 
 <div align="left">
   
 ### About me
-- I'm a freshman at University of Science - VNUHCM, majoring in Mathematics and Computer Science
-- I’m currently learning **Data Science**, **Machine Learning**, **Mathematics** and **Algorithms**
+- I'm a sophomore at University of Science - VNUHCM, majoring in Mathematics and Computer Science
+- I’m currently learning **Data Science**, **Mathematics** and **Algorithms**
 
 ### Languages & Tools
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -35,10 +33,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> 
     
-<!-- ### Libraries
+### Libraries
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  <!-- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
