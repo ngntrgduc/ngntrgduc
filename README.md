@@ -13,11 +13,9 @@
   <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
   <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/>
   <img src="https://forthebadge.com/images/badges/it-works-why.svg"/>
-  
-<!--   <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg"/> -->
 
 <div align="left">
-  
+
 ### About me
 - I'm a sophomore at University of Science - VNUHCM, faculty of Mathematics and Computer Science
 - I’m currently learning **Data Science**, **Mathematics** and **Algorithms**
@@ -27,7 +25,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-  <!--   ![](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -35,19 +32,14 @@
 ### Libraries
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  <!-- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) -->
   
 ### Connect with me
   <p>
-    <a href="https://fb.com/nguyenduc1511" target="_blank">
+    <a href="https://fb.com/nguyenduc1511">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>          
-    <a href="https://linkedin.com/in/nguyentrungduc1511" target="_blank">
+    <a href="https://linkedin.com/in/nguyentrungduc1511">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>          
-    <a href="mailto:trungducnguyen1511@gmail.com" target="_blank">
+    <a href="mailto:trungducnguyen1511@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
