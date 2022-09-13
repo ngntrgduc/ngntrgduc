@@ -47,3 +47,7 @@
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/languages.svg">
 </p>
+
+<div align="center">
+ 
+ ***“Those who can imagine anything, can create the impossible.”*** - Alan Turing
