@@ -17,7 +17,7 @@
 <div align="left">
 
 ### About me
-- I'm a sophomore at University of Science - VNUHCM, faculty of Mathematics and Computer Science
+- I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science**
 - I’m currently learning **Data Science**, **Mathematics** and **Algorithms**
 
 ### Languages & Tools & Libraries
