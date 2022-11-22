@@ -18,7 +18,7 @@
 
 ### About me
 - I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science**
-- I’m currently learning **Data Science**, **Mathematics** and **Algorithms**
+- I’m currently learning **Mathematics**, **Algorithms**, **Data Science** and **Machine learning**
 
 ### Languages & Tools & Libraries
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
