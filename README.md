@@ -1,13 +1,13 @@
+<div width="100%" align="center">  
+  
+![](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)  
+  
+<div width="100%" align="left">  
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen</h1>
 
 ### About me
 :book: I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science** </br>
 :seedling: I’m currently learning **Mathematics**, **Data Science** and **Machine learning** 
-
-### Tech stuff
-:fire: Programming Languages: C++, Python, JavaScript, SQL, Matlab </br>
-:toolbox: Tools: Git, Vim, LaTeX, Selenium </br>
-:books: Libraries: NumPy, Pandas, Seaborn
   
 ### Connect with me
   <p>
@@ -22,7 +22,3 @@
 <div width="100%" align="center">  
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/languages.svg">
- 
- ### ***“Those who can imagine anything, can create the impossible.”*** - Alan Turing
- 
-![](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
