@@ -1,24 +1,20 @@
-<div width="100%" align="center">
- 
-![](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
   
 <div width="100%" align="left">
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"/>
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
   <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/> 
   <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
-  <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/>
-  <img src="https://forthebadge.com/images/badges/it-works-why.svg"/>
+  
 
 <div align="left">
 
 ### About me
-- I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science**
-- I’m currently learning **Mathematics**, **Algorithms**, **Data Science** and **Machine learning**
+:book: I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science**
+ </br>
+:seedling: I’m currently learning **Mathematics**, **Data Science** and **Machine learning**
 
 ### Languages & Tools & Libraries
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -54,3 +50,8 @@
  ### ***“Those who can imagine anything, can create the impossible.”*** - Alan Turing
  
  <!-- [![@ngntrgduc's Holopin board](https://holopin.me/ngntrgduc)](https://holopin.io/@ngntrgduc) -->
+ 
+ <div width="100%" align="center">
+ 
+![](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)
+
