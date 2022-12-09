@@ -6,23 +6,13 @@
 <div align="left">
 
 ### About me
-:book: I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science**
- </br>
-:seedling: I’m currently learning **Mathematics**, **Data Science** and **Machine learning**
+<p> &emsp; :book: I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science** </br>
+&emsp; :seedling: I’m currently learning **Mathematics**, **Data Science** and **Machine learning** </p>
 
-### Languages & Tools & Libraries
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/> -->
-<!--   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> -->
+### Tech stuff
+  <p> &emsp; :fire: Programming Languages: C++, Python, JavaScript, SQL, Matlab </br>
+  &emsp; :toolbox: Tools: Git, Vim, LaTeX, Selenium </br>
+  &emsp; :books: Libraries: NumPy, Pandas, Seaborn </p>
   
 ### Connect with me
   <p>
