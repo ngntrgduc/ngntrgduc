@@ -1,8 +1,9 @@
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen</h1>
 
 ### About me
-:book: I'm a sophomore at University of Science - VNUHCM, faculty of **Mathematics and Computer Science** </br>
-:seedling: I’m currently learning **Mathematics**, **Data Science** and **Machine learning** 
+:book: I'm an ambivert sophomore at University of Science - VNUHCM, Faculty of **Mathematics and Computer Science** </br>
+:seedling: I’m currently learning **Mathematics, Data Science, Machine learning** </br>
+:zap: Fun fact: I love sipping coffee while making :bug: for my code :>
   
 ### Connect with me
   <p>
