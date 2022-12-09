@@ -1,8 +1,3 @@
-<div width="100%" align="center">  
-  
-![](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)  
-  
-<div width="100%" align="left">  
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen</h1>
 
 ### About me
@@ -22,3 +17,5 @@
 <div width="100%" align="center">  
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/languages.svg">
+
+![](https://github.com/ducnguyen1511/ducnguyen1511/blob/output/github-contribution-grid-snake.svg)  
