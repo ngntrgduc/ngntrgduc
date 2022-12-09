@@ -1,14 +1,8 @@
   
 <div width="100%" align="left">
-<h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen </h1>
+<h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen</h1>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"/>
-  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
-  <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/> 
-  <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
   
-
 <div align="left">
 
 ### About me
