@@ -1,4 +1,3 @@
-<!-- <div width="100%" align="left"> -->
 <h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen</h1>
 
 ### About me
@@ -19,8 +18,6 @@
     <a href="mailto:trungducnguyen1511@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
-  
----  
 
 <div width="100%" align="center">  
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
