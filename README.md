@@ -1,4 +1,4 @@
-<h3>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="35" />, I'm Duc Nguyen</h3>
+<h2>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="40" />, I'm Duc Nguyen</h2>
 
 :book: I'm an ambivert sophomore at University of Science - VNUHCM, Faculty of **Mathematics and Computer Science** </br>
 :seedling: I’m currently learning **Mathematics, Data Science, Machine learning** </br>
