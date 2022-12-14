@@ -1,19 +1,9 @@
-<h1>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="60" />, I'm Duc Nguyen</h1>
+<h2>Hi  <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" width="40" />, I'm Duc Nguyen</h1>
 
-### About me
 :book: I'm an ambivert sophomore at University of Science - VNUHCM, Faculty of **Mathematics and Computer Science** </br>
 :seedling: I’m currently learning **Mathematics, Data Science, Machine learning** </br>
-:zap: Fun fact: I love sipping coffee while making :bug: for my code :>
-  
-### Connect with me
-  <p>
-    <a href="https://fb.com/nguyenduc1511">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>          
-    <a href="https://www.linkedin.com/in/ngntrgduc/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>          
-    <a href="mailto:trungducnguyen1511@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
+:zap: Fun fact: I love sipping coffee while making :bug: for my code :> </br>
+:mailbox: Connect with me: [Facebook](https://fb.com/nguyenduc1511) | [LinkedIn](https://www.linkedin.com/in/ngntrgduc/) | [Gmail](mailto:trungducnguyen1511@gmail.com)
 
 <div width="100%" align="center">  
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
