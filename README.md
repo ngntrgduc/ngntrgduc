@@ -2,8 +2,8 @@
 
 :book: An ambivert sophomore at University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 :seedling: Currently learning ***Mathematics, Machine learning*** </br>
-:sparkles: Fun fact: I love listening to :musical_note:, sipping :coffee: while making :bug: for my code :> </br>
-:mailbox: Connect with me: [Facebook](https://fb.com/nguyenduc1511) | [LinkedIn](https://www.linkedin.com/in/ngntrgduc/) | [Email](mailto:trungducnguyen1511@gmail.com)
+:dizzy: Fun fact: I love listening to :musical_note:, sipping :coffee: while making :bug: for my code :> </br>
+:mailbox: Connect with me: [Facebook](https://fb.com/nguyenduc1511) | [LinkedIn](https://www.linkedin.com/in/ngntrgduc/) | [Email](mailto:trungducnguyen1511@gmail.com) | [Quora](https://www.quora.com/profile/Ngntrgduc) | [Mastodon](https://fosstodon.org/@ngntrgduc)
 
 <div width="100%" align="center">  
   <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
