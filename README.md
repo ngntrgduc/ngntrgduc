@@ -5,6 +5,5 @@
 :dizzy: Fun fact: I love listening to [music](https://soundcloud.com/ngntrgduc), sipping coffee while making :bug: for my code :> </br>
 :mailbox: Connect with me: [Facebook](https://fb.com/nguyenduc1511) | [LinkedIn](https://www.linkedin.com/in/ngntrgduc/) | [Email](mailto:trungducnguyen1511@gmail.com) | [Mastodon](https://mathstodon.xyz/@ngntrgduc)
 
-<div width="100%" align="center">
-  <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg">
-  <img src="https://github.com/ngntrgduc/github-stats/blob/master/generated/languages.svg">
+![](https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ngntrgduc/github-stats/blob/master/generated/languages.svg)
