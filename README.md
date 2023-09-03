@@ -1,5 +1,3 @@
-## Hi, I'm Duc Nguyen
-
 :book: I'm an ambivert junior at University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 :seedling: I'm currently learning: ***Mathematics, Machine learning, and Deep Learning*** </br>
 :dizzy: Fun fact: I love listening to [music](https://soundcloud.com/ngntrgduc), sipping coffee while making :bug: for my code :> </br>
