@@ -1,4 +1,4 @@
-import requests
+from urllib.request import urlopen
 import random
 
 CONTENT = \
@@ -13,7 +13,10 @@ CONTENT = \
 ![](https://github.com/ngntrgduc/github-stats/blob/master/generated/languages.svg)
 """
 
-result = requests.get('https://raw.githubusercontent.com/ngntrgduc/ngntrgduc.github.io/master/content/quotes.md').text
+url = 'https://raw.githubusercontent.com/ngntrgduc/ngntrgduc.github.io/master/content/quotes.md'
+with urlopen(url) as response:
+    result = response.read().decode('utf-8')
+
 quotes = result.split('\n\n')[1:]
 
 with open('README.md', 'w', encoding='utf-8') as f:
