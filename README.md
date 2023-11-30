@@ -1,4 +1,4 @@
-> ***"All models are wrong, but some are useful." - George Box***
+> ***"Whatever happens, happens."***
 
 :book: I'm an ambivert junior at the University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 :test_tube: I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline </br>
