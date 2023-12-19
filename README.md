@@ -1,4 +1,4 @@
-> ***"Good things take time."***
+> ***"You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman***
 
 📖 I'm an ambivert junior at the University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 🧪 I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline </br>
