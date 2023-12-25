@@ -1,4 +1,4 @@
-> ***"And, when you want something, all the universe conspires in helping you to achieve it." ― Paulo Coelho, The Alchemist***
+> ***"Statistics is the grammar of science." - Karl Pearson***
 
 📖 I'm an ambivert junior at the University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 🧪 I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline </br>
