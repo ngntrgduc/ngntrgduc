@@ -1,4 +1,4 @@
-> ***"Good things take time."***
+> ***"Shoot for the moon. Even if you miss, you'll land among the stars." - Norman Vincent Peale***
 
 📖 I'm an ambivert junior at the University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 🧪 I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline </br>
