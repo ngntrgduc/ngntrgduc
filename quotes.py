@@ -18,9 +18,16 @@ CONTENT = \
 url = 'https://raw.githubusercontent.com/ngntrgduc/ngntrgduc.github.io/master/content/quotes.md'
 with urlopen(url) as response:
     result = response.read().decode('utf-8')
+    quotes = result.split('\n\n')[1:]
 
-quotes = result.split('\n\n')[1:]
+with open('README.md', 'r', encoding='utf-8') as f:
+    old_content = f.read()
+    old_quote = old_content.split('\n\n')[0][5:-3]
+
+new_quote = random.choice(quotes)[2:].strip()
+while new_quote == old_quote:
+    new_quote = random.choice(quotes)[2:].strip()
 
 with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(f'> ***{random.choice(quotes)[2:].strip()}***\n')
+    f.write(f'> ***{new_quote}***\n')
     f.write(CONTENT)
