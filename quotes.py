@@ -3,7 +3,9 @@ import random
 
 CONTENT = \
 """
-<img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
+<a href="https://github.com/ngntrgduc/github-stats">
+  <img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
+</a>
 
 📖 I'm an ambivert junior at the University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 🧪 I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline </br>
