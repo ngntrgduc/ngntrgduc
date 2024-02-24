@@ -1,6 +1,6 @@
-> ***"You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman***
+> ***"Small progress is still progress."***
 
-<img align="right" alt="GIF" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
+<img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
 
 📖 I'm an ambivert junior at the University of Science - VNUHCM, Faculty of Mathematics and Computer Science </br>
 🧪 I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline </br>
