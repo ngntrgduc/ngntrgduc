@@ -1,4 +1,4 @@
-> ***"Today is the first day of the rest of your life" - Elon Musk***
+> ***"Shoot for the moon. Even if you miss, you'll land among the stars." - Norman Vincent Peale***
 
 <a href="https://github.com/ngntrgduc/github-stats">
   <img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
