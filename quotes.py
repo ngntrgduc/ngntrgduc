@@ -11,7 +11,7 @@ CONTENT = \
 
 🧪 I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely).
 
-🐧 Fun fact: ISFJ-A. Ambivert. Sleep-deprived. Xiangqi player. Music. Coffee.
+🐧 Fun fact: ISFJ-A. Ambivert. Sleep-deprived. Xiangqi player. [Music](https://soundcloud.com/ngntrgduc). Coffee.
 """
 
 url = 'https://raw.githubusercontent.com/ngntrgduc/ngntrgduc.github.io/master/content/quotes.md'
