@@ -1,4 +1,4 @@
-> ***"If you can't do great things, do small things in a great way." - Napoleon Hill***
+> ***"You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman***
 
 <a href="https://github.com/ngntrgduc/github-stats">
   <img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
