@@ -9,9 +9,9 @@ CONTENT = \
 
 📖 I'm a junior at the University of Science - VNUHCM, majoring in Mathematics and Computer Science.
 
-🧪 I make [random stuff](https://github.com/ngntrgduc/projects), [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely).
+🧪 I make [random stuff](https://github.com/ngntrgduc/info), [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely).
 
-🐧 Fun fact: ISFJ-A. Ambivert. Sleep-deprived. Xiangqi player. [Music](https://soundcloud.com/ngntrgduc). Coffee.
+🐧 Fun facts: ISFJ-A. Ambivert. Sleep-deprived. [Music](https://soundcloud.com/ngntrgduc). Coffee. Knows Xiangqi.
 """
 
 url = 'https://raw.githubusercontent.com/ngntrgduc/ngntrgduc.github.io/master/content/quotes.md'
