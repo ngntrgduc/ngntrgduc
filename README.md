@@ -1,4 +1,4 @@
-> ***"Today is the first day of the rest of your life" - Elon Musk***
+> ***"Statistics is the grammar of science." - Karl Pearson***
 
 <a href="https://github.com/ngntrgduc/github-stats">
   <img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
