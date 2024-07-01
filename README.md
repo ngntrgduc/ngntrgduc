@@ -1,4 +1,4 @@
-> ***"Statistics is the grammar of science." - Karl Pearson***
+> ***"And, when you want something, all the universe conspires in helping you to achieve it." ― Paulo Coelho, The Alchemist***
 
 <a href="https://github.com/ngntrgduc/github-stats">
   <img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
