@@ -8,4 +8,4 @@
 
 🧪 I make [random stuff](https://github.com/ngntrgduc/info), [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely).
 
-🐧 Fun facts: ISFJ-A. Ambivert. Sleep-deprived. [Music](https://soundcloud.com/ngntrgduc). Coffee. Knows Xiangqi.
+🐧 Fun facts: ISFJ-A. Ambivert. Sleep-deprived. Music. Coffee. Knows Xiangqi.
