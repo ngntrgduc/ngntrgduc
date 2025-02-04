@@ -8,6 +8,6 @@
 
 🧪 I make [random stuff](https://github.com/ngntrgduc/info), [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely 🥲).
 
-✨ Current interests: Theoretical Machine Learning, Theoretical Computer Science, Statistical Learning, Optimal Transport, Finance & Economics, Quant...
+✨ Current interests: Theoretical Computer Science, Statistical Learning (Theoretical Machine Learning), Optimal Transport, Finance & Economics, Quant...
 
 🐧 Fun facts: INTJ-A (Architect). Ambivert. 💖 Music & Coffee. Knows Xiangqi.
