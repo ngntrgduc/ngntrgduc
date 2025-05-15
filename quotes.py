@@ -11,10 +11,9 @@ CONTENT = \
 
 🧪 I make [random stuff](https://github.com/ngntrgduc/info), [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely 🥲).
 
-✨ Current interests: Theoretical Computer Science $\leftrightarrow$ Category Theory, Statistical Learning, Optimal Transport, Causal Inference, Finance & Economics, Quant...
+✨ Current interests: Theoretical Computer Science (Category Theory), Statistical Learning, Optimal Transport, Causal Inference, Finance & Economics, Quant...
 
 🐧 Fun facts: INTJ-A (Architect). Ambivert. 💖 Music & Coffee. Knows Xiangqi.
-
 """
 
 url = 'https://raw.githubusercontent.com/ngntrgduc/ngntrgduc.github.io/master/content/quotes.md'
