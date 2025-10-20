@@ -4,10 +4,10 @@
   <img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
 </a>
 
-📖 I'm a sleep-deprived final-year undergraduate at the University of Science - VNUHCM, majoring in Mathematics and Computer Science.
+📖 I'm a recent Mathematics and Computer Science graduate from the University of Science - VNUHCM.
 
-🧪 I make [random stuff](https://github.com/ngntrgduc/info), [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely 🥲).
+🧪 I cook [random stuff](https://github.com/ngntrgduc/info) and [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely 🥲).
 
-✨ Current interests: Theoretical Computer Science (Category Theory), Statistical Learning, Optimal Transport, Causal Inference, Finance & Economics, Quant...
+✨ Current interests: Theoretical Computer Science (Category Theory, Information Theory), Statistical Learning, Database, Finance & Economics, Quant...
 
-🐧 Fun facts: INTJ-A (Architect). Ambivert. 💖 Music & Coffee. Knows Xiangqi.
+🐧 Fun facts: INTJ-A (Architect). Ambivert. 💖 Music & Movies & Coffee. Knows Xiangqi.
