@@ -8,6 +8,6 @@
 
 🧪 I cook [random stuff](https://github.com/ngntrgduc/info) and [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely 🥲).
 
-✨ Current interests: Information Theory, Recommender Systems, Probability & Statistics, Time Series, Finance & Economics, Quant...
+✨ Current interests: Information Theory, Recommender Systems, Time Series, Statistical Learning, Finance & Economics, Quant...
 
 🐧 Fun facts: INTJ-A (Architect). Ambivert. 💖 Music & Movies & Coffee. Knows Xiangqi.
