@@ -4,7 +4,7 @@
   <img align="right" src="https://github.com/ngntrgduc/github-stats/blob/master/generated/overview.svg"/>
 </a>
 
-📖 I'm currently a master's student in Applied Mathematics. Previously, I earned my Bachelor's degree in Mathematics and Computer Science from the University of Science - VNUHCM in 2025.
+📖 I'm currently a master's student in Applied Mathematics ([MFVMA](https://mfvma.hcmus.edu.vn/pages/about-en)). Previously, I earned my Bachelor's degree in Mathematics and Computer Science from the University of Science - VNUHCM in 2025.
 
 🧪 I cook [random stuff](https://github.com/ngntrgduc/info) and [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely 🥲).
 
