@@ -8,6 +8,6 @@
 
 🧪 I cook [random stuff](https://github.com/ngntrgduc/info) and [blog](https://ngntrgduc.github.io/) whenever I have no deadline (rarely 🥲).
 
-✨ Current interests: Functional Analysis ☠️, Optimization, Optimal Control, Statistical Learning, Mathematical Finance, Optimal Transport, Information Theory...
+✨ Current interests: Functional Analysis ☠️, Optimization, Optimal Control, Statistical Learning, Mathematical Finance, Operations Research, Optimal Transport, Information Theory...
 
 🐧 Fun facts: [INTJ-A (Architect)](https://www.16personalities.com/intj-personality). Ambivert. 💖 Music & Movies & Coffee. Knows Xiangqi.
